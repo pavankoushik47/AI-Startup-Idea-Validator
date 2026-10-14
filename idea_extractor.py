@@ -4,11 +4,11 @@ from dotenv import load_dotenv
 from google import genai
 load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
-if not api_key:
-    print("API key missing. Check your .env file.")
-else:
+def extract_idea(startup_idea):
+    if not api_key:
+        raise ValueError("API key missing. Check your .env file.")
+
     client = genai.Client(api_key=api_key)
-    startup_idea = input("Enter your startup idea: ")
     prompt = f"""
     Analyze this startup idea and extract:
     1. problem_statement
@@ -25,14 +25,16 @@ else:
             contents=prompt,
             config={"response_mime_type": "application/json"}
         )
-
         if not response.text:
-            print("Error: The AI returned an empty response.")
-        else:
-            idea_data = json.loads(response.text)
-            print(json.dumps(idea_data, indent=4))
+            raise ValueError("The AI returned an empty response.")
+        idea_data = json.loads(response.text)
+        return idea_data
     except json.JSONDecodeError:
-        print("Error: The AI returned invalid JSON.")
+        raise ValueError("The AI returned invalid JSON.")
+if __name__ == "__main__":
+    startup_idea = input("Enter your startup idea: ")
+    try:
+        idea_data = extract_idea(startup_idea)
+        print(json.dumps(idea_data, indent=4))
     except Exception as e:
-        print("Error connecting to the AI:", e)
-
+        print("Error:", e)
