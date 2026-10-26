@@ -1,0 +1,335 @@
+[
+  {
+    "input": {
+      "description": "An app that gives rural students affordable AI tutoring in regional languages over WhatsApp.",
+      "industry": "EdTech",
+      "target_customers": "Rural school students and parents",
+      "details": ""
+    },
+    "output": {
+      "status": "ok",
+      "errors": [],
+      "structured_idea": {
+        "problem_statement": "Rural students often lack access to affordable, quality educational support and tutoring available in their native regional languages without requiring high-end devices or high-speed internet.",
+        "proposed_solution": "An affordable AI tutoring service delivered directly through WhatsApp that teaches and assists students in their regional languages.",
+        "target_customers": "Rural school students and parents",
+        "industry": "EdTech",
+        "key_features": [
+          "WhatsApp-based interface for low-barrier accessibility",
+          "AI-powered interactive tutoring",
+          "Support for multiple regional languages",
+          "Affordable pricing model tailored for rural families"
+        ]
+      },
+      "search_results": {
+        "Market Demand": [
+          {
+            "title": "How AI is TransforminHow AI is Revolutionizing EdTech Landscape in India: Trends, Innovations, and Market Impact",
+            "url": "https://www.imarcgroup.com/insight/ai-revolutionizing-edtech-landscape-in-india",
+            "content": "## Forecast:\n\nThe Indian EdTech market is set for remarkable growth, projected to reach nearly USD 33.2 Billion by 2033 with a CAGR of over 28.7%. Artificial intelligence (AI) will be the primary driver, shaping innovation, adoption, and user experiences across the sector. [...] Short-term (2025–2027): Rapid growth is expected in AI-powered personalized learning platforms, driven by stronger digital infrastructure, government support, and growing trust in online education. Both individual learners and institutions will increasingly adopt adaptive tools. [...] AI-powered virtual tutors and chatbots are transforming student support in India’s EdTech sector, offering 24/7 scalable assistance across subjects and levels. Chegg Inc.’s AI chatbotshelp with homework, concept clarification, and study guidance, particularly aiding students in remote areas lacking qualified tutors. Class Technologies integrates AI assistants into learning systems, providing instant responses to queries and technical issues, boosting satisfaction. Instructure Inc. supplements",
+            "score": 0.49567938,
+            "raw_content": null,
+            "id": "c47753-00"
+          },
+          {
+            "url": "https://tracxn.com/d/artificial-intelligence/ai-startups-in-edtech-in-asia/__57mWuWoWCxTTZAmnOBcVAg5UeIp8xdER71YWW8aoJTY",
+            "title": "Artificial Intelligence in EdTech in Asia - 2026 Market & Investment Trends - Tracxn",
+            "content": "| Company | Description | Location | Founded | Current Stage | Private Funding Raised |\n ---  ---  --- |\n| Logo for Languify Languify | Provider of AI-driven language assessment platform | Bengaluru  (India) | 2021 | Seed | $339K |\n| Logo for Squirrel Ai Learning Squirrel Ai Learning | Provider of AI-based tutoring platform for students | Shanghai  (China) | 2014 | Series C | $194M | [...] | Company | Round Raised | Amount Raised | Funding Date | Investors |\n ---  --- \n| Logo for YoLearn YoLearn | Seed | 4861 | Aug 31, 2026 | ABP Learning |\n| Logo for AILA AILA | Seed | 5729 | Aug 19, 2026 | Rua Growth Fund  and 3 more |\n| Logo for YoLearn YoLearn | Seed | 6433 | Jun 30, 2026 | dataAlpha  and 1 more |\n| Logo for YoLearn YoLearn | Angel | 2459 | Dec 26, 2025 | Sabyasachi Upadhyay  and 4 more |\n| Logo for Omli Omli | Seed | 2791 | Nov 19, 2025 | India Quotient  and 5 more | [...] | College | Total Funding |\n --- |\n| Tsinghua University | $100M |\n| Hong Kong University of Science and Technology (HKUST) | $11M |\n| Tel Aviv University | $8.7M |\n| University of California (Berkeley) | $5.48M |\n| BITS Pilani | $2.07M |\n| IIT Madras | $1.52M |\n| IIT BHU | $645K |\n| IIT Bombay | $339K |\n| Carnegie Mellon University \n| Columbia Business School \n\n## Top News in Artificial Intelligence companies in EdTech in Asia\n\n## FAQs about Artificial Intelligence companies in EdTech in Asia",
+            "score": 0.47416916,
+            "raw_content": null,
+            "id": "0a2a46-01"
+          },
+          {
+            "url": "https://tracxn.com/d/artificial-intelligence/ai-startups-in-k-12-edtech/__glJd6fDGPKuJPtgeas100SPTg7f-Da3qoOzcYfmQUZQ",
+            "title": "Artificial Intelligence in K-12 EdTech - 2026 Market & Investment Trends - Tracxn",
+            "content": "| Company | Round Raised | Amount Raised | Funding Date | Investors |\n ---  --- \n| Logo for Sainaptic Innovations Sainaptic Innovations | Seed | 3711 | Oct 13, 2026 \n| Logo for Amira Learning Amira Learning | Series A | 5653 | Sep 28, 2026 \n| Logo for YoLearn YoLearn | Seed | 4381 | Aug 31, 2026 | ABP Learning |\n| Logo for AILA AILA | Seed | 4173 | Aug 19, 2026 | Rua Growth Fund  and 3 more |\n| Logo for YoLearn YoLearn | Seed | 9572 | Jun 30, 2026 | dataAlpha  and 1 more | [...] | College | Total Funding |\n --- |\n| Massachusetts Institute of Technology | $86.3M |\n| Stanford Business School | $65.4M |\n| Stanford University | $65.4M |\n| Universitat Politècnica de Catalunya | $50.3M |\n| Maastricht University | $30.7M |\n| IIT Kharagpur | $29M |\n| University of Cambridge | $15.1M |\n| University of Pennsylvania | $4M |\n| University of Oxford | $3.2M |\n| INSEAD | $2M |\n\n## Top News in Artificial Intelligence companies in K-12 EdTech [...] | Logo for Speechify Speechify | Provider of of text-to-speech software | Miami  (United States) | 2017 | Funding Raised \n| Logo for Squirrel Ai Learning Squirrel Ai Learning | Provider of AI-based tutoring platform for students | Shanghai  (China) | 2014 | Series C | $194M |\n| Logo for Flint Flint | Provider of AI tools for schools | San Francisco  (United States) | 2023 | Series A | $15.5M |",
+            "score": 0.35160094,
+            "raw_content": null,
+            "id": "355c06-02"
+          },
+          {
+            "url": "https://tracxn.com/d/artificial-intelligence/ai-startups-in-edtech-in-china/__K-lAtupnf8Mk0axYm1EITyBnSMctkGT0qA6KZ4oNeNs",
+            "title": "Artificial Intelligence in EdTech in China - 2026 Market & Investment Trends - Tracxn",
+            "content": "| Company | Description | Location | Founded | Current Stage | Private Funding Raised |\n ---  ---  --- |\n| Logo for Squirrel Ai Learning Squirrel Ai Learning | Provider of AI-based tutoring platform for students | Shanghai  (China) | 2014 | Series C | $194M |\n| Logo for Liulishuo Liulishuo | App-based platform to learn English languages | Yangpu  (China) | 2012 | Series C | $100M | [...] Most number of Artificial Intelligence startups in EdTech in China have been founded by alumni from Hong Kong University of Science and Technology (HKUST), London School of Economics and Political Science and Massachusetts Institute of Technology. [...] In the last 10 years, graduates from Tsinghua University have raised the most funding for Artificial Intelligence companies in EdTech in China, compared to alumni from other top colleges. Hong Kong University of Science and Technology (HKUST) alumni are second, and University of California (Berkeley) alumni are third.",
+            "score": 0.23210163,
+            "raw_content": null,
+            "id": "c84182-03"
+          },
+          {
+            "url": "https://tracxn.com/d/artificial-intelligence/ai-startups-in-k-12-edtech-in-china/__LZQiu5o57jO1gJCGeK0HcxiEU6e___d3SCWnTuOEdsQ",
+            "title": "Artificial Intelligence in K-12 EdTech in China - 2026 Market & Investment Trends - Tracxn",
+            "content": "| Company | Description | Location | Founded | Current Stage | Private Funding Raised |\n ---  ---  --- |\n| Logo for Squirrel Ai Learning Squirrel Ai Learning | Provider of AI-based tutoring platform for students | Shanghai  (China) | 2014 | Series C | $194M |\n| Logo for Precision Precision | AI based adaptive learning platform provider for students | Hangzhou  (China) | 2018 | Series B | $35M | [...] | Logo for Xiansheng Education Xiansheng Education | Online adaptive learning platform for schools | Beijing  (China) | 2016 | Series A | $10M |\n| Logo for Afanti Afanti | Provider of geotechnical engineering solutions using patented geopolymer technology | Beijing  (China) | 2014 | Series B | $78M |\n| Logo for Putao ABC Putao ABC | Provider of online English learning courses for children | Beijing  (China) | 2018 | Seed | $21M | [...] | Year | Total Funding |\n --- |\n| 2024 | $27.6M |\n| 2021 \n| 2020 | $14.3M |\n| 2019 | $8.93M |\n| 2018 | $171M |\n| 2017 | $10M |\n\n### Recent Funding Rounds in Artificial Intelligence companies in K-12 EdTech in China",
+            "score": 0.21246108,
+            "raw_content": null,
+            "id": "7c84c7-04"
+          }
+        ],
+        "Competitor Analysis": [
+          {
+            "url": "https://tracxn.com/d/companies/ai-school-of-india/__dYJ6MeH12RfvmmiBXl979uIxkBeQMbkqccqa2OI3RhU",
+            "title": "AI School of India - 2026 Company Profile, Competitors & Financials - Tracxn",
+            "content": "Logo for LingoAce\nLogo for BrightChamps\nLogo for Outschool\nLogo for Wiloki\nLogo for Wiingy\nLogo for WizKlub\nLogo for UULA\nLogo for Studdy\nLogo for Marathon Education\nLogo for Littera Education\nLogo for AI School of India\nlock\n\n## AI School of India's Investments and acquisitions\n\n## Reports related to AI School of India\n\nAn image depicting K-12 EdTech - Sector Report\n\nK-12 EdTech - Sector Report\n\n## FAQs about AI School of India\n\nAccel Partners\nPartech\nIN-Q-TEL - US\nFujitsu\nTenity\nStanford [...] | 4th | Logo for Wiloki  Wiloki 2018, Paris  (France), Unfunded | AI and app-based platform offering online tutoring solutions for school students  - | 49/100 |\n| 5th | Logo for Wiingy  Wiingy 2021, Bengaluru  (India), Seed | Provider of online and in-person tutoring services | $406K | Aroa Venture Partners, Ra Hospitality  & 10 others | 48/100 | [...] | 8th | Logo for Studdy  Studdy 2023, San Francisco  (United States), Seed | AI-powered educational platform offering tutoring services for students | $500K | Y Combinator, Very Serious Ventures  & 3 others | 47/100 |\n| 9th | Logo for Marathon Education  Marathon Education 2021, Ho Chi Minh City  (Vietnam), Seed | Online platform providing multi-disciplinary courses | $7.1M | Vulcan, Y Combinator  & 7 others | 46/100 |",
+            "score": 0.5501488,
+            "raw_content": null,
+            "id": "ad8960-00"
+          },
+          {
+            "url": "https://www.upskillist.com/blog/best-ai-language-learning-apps",
+            "title": "6 Best AI Language Learning Apps in 2026: Ranked and Tested",
+            "content": "The best AI language learning app in 2026 depends on your level and goals. For intermediate learners who want real conversation practice, Langua leads the pack, while beginners will get more structured support from Speak. If budget is a concern, TalkPal offers strong AI tutoring features at a lower price point than most competitors.\n\n### Can AI language apps actually replace a human tutor? [...] Best for: Budget-conscious learners who want flexible AI conversation practice across a wide range of languages without committing to a premium subscription.\n\nKey differentiator: TalkPal's 57+ language coverage at a budget price point makes it the most accessible affordable AI language learning option for learners studying less common languages that other apps ignore entirely.\n\n## 5. Memrise. Best for Real-World Vocabulary with AI-Enhanced Recall [...] 3. Budget-conscious learners can access AI conversation tutoring through TalkPal, which supports over 57 languages, more than any other app in this roundup, at a lower price point.\n4. Duolingo Max leads all apps specifically for habit formation, with internal Duolingo data showing that learners who maintain a 7-day streak are significantly more likely to continue long-term, making it best suited for learners who struggle with consistency rather than content.",
+            "score": 0.5462305,
+            "raw_content": null,
+            "id": "e2c98c-01"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/arivihan",
+            "title": "Arivihan - Products, Competitors, Financials, Employees, Headquarters Locations",
+            "content": "Sector B, Slice 5, Aranya Nagar, Scheme 78, Vijay Nagar 1605, The Address, Skye Earth Corporate Park\n\nIndore, 452010,\n\nIndia\n\n+91 9111566686\n\nLoading...\n\nLoading...\n\n## LatestArivihan News\n\nArivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform\n\nSep 30, 2026 [...] Sep 30, 2026\n\nArivihan raises $10 million to expand AI-powered learning platform\n\nSep 30, 2026\n\nEcommerce cos gear up for festive sales; Vertex Ventures’ new bets\n\nSep 30, 2026\n\nArivihan raises $10M as AI-led edtech targets India’s smaller cities\n\nSep 30, 2026\n\nEdtech startup Arivihan raises $10 Mn in Series A led by Accel and Prosus\n\n### ArivihanFrequently Asked Questions (FAQ)\n\n When was Arivihan founded?\n\n  Arivihan was founded in 2019.\n Where is Arivihan's headquarters? [...] ## About Arivihan\n\nArivihan operates as an online learning platform that provides education in vernacular languages for K-12 students. The platform offers artificial intelligence-based tutoring that adapts in real-time to each student's pace and understanding, delivering lectures from experienced faculty in a one-on-one format. Arivihan primarily caters to the education sector. It was founded in 2019 and is based in Indore, India.\n\n## Headquarters Location",
+            "score": 0.51310796,
+            "raw_content": null,
+            "id": "9d133f-02"
+          },
+          {
+            "url": "https://worldeducationmagazine.com/learning-edtech/ai-tutoring-platforms",
+            "title": "20 Best AI Tutoring Platforms for Students & Professionals in 2026",
+            "content": "Brainly, StudyFetch, Knowt, Mindgrasp and Smodin are useful when you already have homework, notes, lectures or other study material and want help working through them.\n\n### 11. Brainly: Best for homework support\n\nBest for: School students\n\nBrainly combines AI assistance with its established question-and-answer community. It can help students work through homework questions and create additional study material. [...] ## Frequently Asked Questions\n\nWhat is the best AI tutor for students?\n\nKhanmigo is a strong choice for structured academic tutoring, while Photomath is particularly useful for maths and Quizlet for revision. There is no universal winner.\n\nWhat are the best free AI tutoring platforms?\n\nFree options include tools such as ChatGPT’s free tier and selected free versions of education platforms. However, features and usage limits vary, so check the current plan before choosing one. [...] |  |  |  |\n --- \n| Platform | Best for | Why consider it |\n| Khanmigo | Academic learning | Guided tutoring |\n| TutorAI | General learning | Conversational learning |\n| ChatGPT | Broad learning | Flexible explanations |\n| Gemini | General learning | Multimodal support |\n| Socratic | Homework | Quick academic help |\n| Photomath | Maths | Step-by-step solutions |\n| Gauth | STEM | Problem solving |\n| ELSA Speak | English | Pronunciation |\n| Duolingo | Languages | Interactive practice |",
+            "score": 0.50930125,
+            "raw_content": null,
+            "id": "4908e8-03"
+          },
+          {
+            "url": "https://www.leadsquared.com/industries/edtech/edtech-companies-in-india",
+            "title": "20 Top EdTech Companies In India (2026)",
+            "content": "Founded in:2009\n\nFounders:Krishna Kumar, Kashyap Dalal\n\nFunding: $28 m ($15 m raised 7 years ago)\n\nInvestors:Helion Venture Partners, Kalaari Capital, Mayfield Fund\n\nEmployee range: 3,242\n\nAbout Simplilearn:\n\nSimplilearn first appeared as a blog website. It is one of the most tenacious competitors in the international market because of the efforts of the platform’s creator Krishna Kumar. [...] About Vedantu:\n\nIn the era of online tutoring, Vedantu has established itself as one of India’s top EdTech startups. Students in grades 6 through 12 can receive individualized coaching from highly qualified teachers. Their aim is to improve learning outcomes through actual student-teacher interactions. [...] The mission of iQuanta is to make high-quality education affordable for anyone wishing to take competitive exams. iQuanta has grown to include 3.5 lakh+ aspirants from around the world, resulting in 10,521+ IIM calls and 1000+ IIM converts in just 5 years.\n\nUSP: iQuanta operates as a community that brings together teachers and students for competitive exams. The company claims to have enrolled over fifteen thousand students into IIMs through their thorough courses.\n\n## 10. TrainerCentral",
+            "score": 0.4808937,
+            "raw_content": null,
+            "id": "c29e5d-04"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "input": {
+      "description": "A subscription service that delivers personalised diabetic-friendly meal kits to urban households.",
+      "industry": "HealthTech",
+      "target_customers": "Urban adults managing diabetes",
+      "details": ""
+    },
+    "output": {
+      "status": "ok",
+      "errors": [],
+      "structured_idea": {
+        "problem_statement": "Managing diabetes requires strict dietary planning, but busy urban residents often struggle to find, prepare, and maintain consistent, personalized, diabetic-friendly meals.",
+        "proposed_solution": "A subscription-based service delivering personalized, ready-to-cook diabetic-friendly meal kits tailored to the dietary requirements of urban households.",
+        "target_customers": "Urban adults managing diabetes",
+        "industry": "HealthTech",
+        "key_features": [
+          "Personalized meal customization based on specific diabetic and dietary profiles",
+          "Subscription-based recurring doorstep delivery",
+          "Pre-portioned, nutritionally balanced ingredients with low glycemic impact",
+          "Easy-to-follow, quick recipes tailored for busy urban lifestyles"
+        ]
+      },
+      "search_results": {
+        "Market Demand": [
+          {
+            "url": "https://www.futuremarketinsights.com/reports/meal-kit-delivery-services-market",
+            "title": "Meal Kit Delivery Services Market Size, Trends 2025-2035",
+            "content": "Especially, organic, plant-based, and diet-driven meal kits were a growing trend segment, observed in urban households, busy professionals, and health-conscious consumers. AI-driven meal customization, sustainable packaging, and direct-from-farm ingredient sourcing innovation improved product desirability. [...] The meal kit delivery service market is fuelled by growing demand for convenient and healthy meal solutions, innovations in supply chain logistics, and the growing popularity of subscription-based food delivery services. [...] Market expansion has been driven by the rising popularity of Cook & Eat meal kits with families, foodies, and health-conscious consumers. Market demand is supporting enhanced at-home food experiences through growth in ready to cook, gourmet meal kits built with sous vide pre-marinated proteins, handwritten spice blends, and customizable recipe lists.",
+            "score": 0.4709562,
+            "raw_content": null,
+            "id": "10bd4e-00"
+          },
+          {
+            "url": "https://www.htfmarketintelligence.com/report/global-healthy-meal-delivery-services-market",
+            "title": "Healthy Meal Delivery Services Market Size & Trends Estimation",
+            "content": "#### By Type\n\n Ready-to-Eat Meals\n Meal Kit Delivery\n Customized Diet Plans\n Subscription-Based Meal Services\n On-Demand Healthy Meal Delivery\n\n#### By Application\n\n Individual Consumers\n Fitness Enthusiasts\n Weight Management Users\n Corporate Wellness Programs\n Healthcare & Clinical Nutrition\n Others\n\n#### By Meal Type\n\n Vegan Meals\n Vegetarian Meals\n Keto Meals\n High-Protein Meals\n Low-Calorie Meals\n Gluten-Free Meals\n Organic Meals\n Others\n\n#### By End User [...] | Scope | Sub-Segments |\n --- |\n| Applications |  Individual Consumers  Fitness Enthusiasts  Weight Management Users  Corporate Wellness Programs  Healthcare & Clinical Nutrition  Others |\n| Type |  Ready-to-Eat Meals  Meal Kit Delivery  Customized Diet Plans  Subscription-Based Meal Services  On-Demand Healthy Meal Delivery |\n| Meal Type |  Vegan Meals  Vegetarian Meals  Keto Meals  High-Protein Meals  Low-Calorie Meals  Gluten-Free Meals  Organic Meals  Others | [...] seek convenient and nutritious meal options. The use of technology and data analytics to improve the customer experience and offer more personalized meal plans is also expected to be a key trend in this market.",
+            "score": 0.45086768,
+            "raw_content": null,
+            "id": "542d3d-01"
+          },
+          {
+            "url": "https://www.businessinsider.com/guides/kitchen/best-meal-kit-delivery-service",
+            "title": "Best Meal Delivery Services and Kits of 2026 - Business Insider",
+            "content": "The menus are especially good for people with dietary restrictions, and you can sort meals by paleo, diabetes-friendly, gluten-free, vegetarian, dairy-free, and more without having to decode tiny menu flags. Sunbasket also cuts down on prep work in some smart ways, with ingredients like pre-chopped squash and ready-to-cook cauliflower rice, which make weeknight cooking feel significantly less work. [...] Blue Apron\nOverall quality and flexibility\nVegetarian, wellness-focused\nNo subscription required; à la carte ordering available\n\nHelloFresh\nQuick dinners\nFamily-friendly, vegetarian\nEasy skips and pauses\n\nFactor\nPrepared meals\nKeto, high-protein\nCancel anytime\n\nSunbasket\nSpecial diets\nPaleo, gluten-free\nFlexible weekly plans\n\nHome Chef\nVariety\nCarb-conscious, vegetarian\nCustomizable weekly\n\nPurple Carrot\nVegan\nFully plant-based\n\nEasy weekly skips [...] committing to a subscription, which removes a lot of the pressure that comes with trying a meal kit for the first time.",
+            "score": 0.3808286,
+            "raw_content": null,
+            "id": "f194f8-02"
+          },
+          {
+            "url": "https://www.tasteofhome.com/collection/diabetic-meal-delivery",
+            "title": "4 Best Diabetic Meal Delivery Services, Per Our Health Editor",
+            "content": "Taste of Home Logo\nThe Best Healthy Meal Delivery Services, Tested by a Dietitian\nThe Best Meal Delivery Services of 2026, Tested by Taste of Home Editors\nWe Tried Them All: The Best Meal Kit Delivery Services\nMeal Delivery Services Compared: The Best Prepared Options for Busy Families\nThe Best Restaurants for People with Diabetes\nModifyHealth Review: A Dietitian's Take on Meal Delivery for Specialized Diets\n6 Best Smoothie Delivery Subscriptions, Tested and Reviewed by a Dietitian [...] Golem says, “In 2026, consumers are looking for the trifecta: convenience, customization and conscience.” When choosing the diabetic meal delivery service that’s right for you, keep the following factors in mind:\n\nSnyder says, “Before committing to a meal kit, be sure to consult with your physician or dietitian to ensure you’re choosing one that meets your individual health goals and dietary needs, as well as staying within your daily carbohydrate and caloric range.” [...] And you won’t be stuck with boring chicken and broccoli bowls either. Instead, enjoy fresh (never frozen) options like a spicy turkey poblano bowl, rosemary pepper pork chop and shrimp Alfredo. All subscriptions come with a complimentary 20-minute consult with a registered dietitian so that the nutrition advice is tailored to your needs.\n\nA white plate with roasted Brussels sprouts and a serving of rice topped with sauce and nuts, next to a fork on a dark wooden table.",
+            "score": 0.35736617,
+            "raw_content": null,
+            "id": "acc497-03"
+          },
+          {
+            "url": "https://www.cookunity.com/business/for-healthcare/medically-tailored-meals/diabetic-meal-delivery",
+            "title": "Diabetes Friendly Meal Delivery | Chef-Made & Nutritious",
+            "content": "Diabetic meal delivery provides chef-made meals tailored to support blood sugar management. CookUnity's Diabetes Friendly meals are dietitian-reviewed, portion-controlled, and designed to be low in added sugars and refined carbs. Meals are delivered fresh, ready to heat and enjoy with no prep required.\n\nAre CookUnity's diabetic meals approved by dietitians?\n\nDownward-facing chevron arrow icon. [...] Downward-facing chevron arrow icon.\n\nYes. CookUnity provides detailed nutritional information for its Diabetes Friendly meals, making it easier for members to review key values such as carbohydrates and choose meals that align with their dietary preferences and care goals.\n\nHow does CookUnity make Diabetes Friendly meals convenient for members?\n\nDownward-facing chevron arrow icon. [...] So easy!\n\nJosh M.\n\ndiabetic meal delivery_trust pilot.png)\n\ndiabetic meal delivery_checking A1C.jpg)\n\n## Diabetes Friendly Nutrition, Made Easy\n\nCookUnity simplifies diabetic meal delivery with chef-crafted meals designed to help support improved overall wellness. Our fresh, delicious meals make eating healthy effortless by turning the power of food into a convenient and effective solution for better living.\n\ndiabetic meal delivery_icon\n\nCompatible with GLP1 treatment\n\nheart healthy meals_icon_1",
+            "score": 0.3336557,
+            "raw_content": null,
+            "id": "dd38ec-04"
+          }
+        ],
+        "Competitor Analysis": [
+          {
+            "url": "https://www.cleaneatzkitchen.com/pages/best-meal-delivery-for-diabetics-2026-guide",
+            "title": "Best Meal Delivery for Diabetics (2026 Guide) – Clean Eatz Kitchen",
+            "content": "Managing diabetes through diet means tracking carbohydrates, balancing protein, and maintaining consistent meal timing. Prepared meal delivery can make this significantly easier — but only if the service publishes full nutrition data per meal, keeps net carbs in a manageable range, and gives you the flexibility to order based on your actual needs rather than a fixed weekly subscription. [...] Best for: Customers managing diabetes alongside IBS, Crohn's disease, or other conditions requiring low-FODMAP eating. This is ModifyHealth's genuine differentiator — no other service in this comparison is designed for that intersection specifically. The subscription and shipping costs are worth it for this customer.\n\n### Factor [...] Price: $9–$13/meal  |  Shipping: $9.99–$14.99/order  |  Subscription: Required weekly\n\nStrengths\n\n Medically tailored for multiple conditions simultaneously\n Full nutrition data published per meal\n Dietitian-designed plans\n Low-FODMAP + diabetic overlap addressed directly\n\nKey Considerations\n\n Subscription required\n Fresh format — 5-day shelf life\n Shipping adds $1–2/meal to effective cost\n Smaller selection than general meal delivery services",
+            "score": 0.5428881,
+            "raw_content": null,
+            "id": "9fb933-00"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/simplycook/alternatives-competitors",
+            "title": "Top SimplyCook Alternatives, Competitors",
+            "content": "Plated\n\n  Plated offers an online platform intended to provide ready-to-cook ingredients and recipes. It provides a subscription-based cook-at-home food delivery service. The com…\n\n  SimplyCook vs. Plated\n\n  View more in-depth data on:\n\n  + Competitors\n  + Products\n  + Customer References and more\n\n  Compare SimplyCook and Plated\n EatFirst Logo\n\n  EatFirst [...] Technology Vendors\n Recent Research\n Newsletter\n Media Support\n Login\n\nCB Insights\n\nSimplyCook company logo\n\n# SimplyCook\n\nsimplycook.com\n\n## SimplyCook's alternatives and competitors\n\nSee how SimplyCookcompares to similar products. SimplyCook's top competitors include Deliveroo, Butternut Box, and Gousto.\n\nDeliveroo Logo\n\nDeliveroo [...] Gousto\n\n  Gousto provides recipe delivery services within the meal kit industry. The company offers meal kits that include pre-portioned ingredients and recipes for consumers to …\n\n  SimplyCook vs. Gousto\n\n  View more in-depth data on:\n\n  + Competitors\n  + Products\n  + Customer References and more\n\n  Compare SimplyCook and Gousto\n Cook My Grub Logo\n\n  Cook My Grub\n\n  Analyst Briefing Submitted",
+            "score": 0.47548413,
+            "raw_content": null,
+            "id": "89e0c4-01"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/chefs-plate/alternatives-competitors",
+            "title": "Top Chef's Plate Alternatives, Competitors",
+            "content": "Purple Carrot Logo\n\nPurple Carrot is a plant-based food company that provides meal delivery services. The company offers plant-based recipes, ready-to-eat meals, and grocery items for indi…\n\nView more in-depth data on:\n\nPlated Logo\n\nPlated offers an online platform intended to provide ready-to-cook ingredients and recipes. It provides a subscription-based cook-at-home food delivery service. The com…\n\nView more in-depth data on:\n\nNew call-to-action\n\n### Top 4 Chef's Plate competitors [...] Yumble Logo\n\nYumble is a subscription-based meal kit service offering pre-prepared meals for kids. It was founded in 2016 and is based in New York, New York.\n\nAnycart operates as an online meal discovery and grocery shopping service platform. It allows users to shop for any meal and order the necessary groceries with home delivery from grocery stores around the city. The company was founded in 2014 and is based in Palo Alto, California. In March 2022, Anycart was acquired by Weee!.",
+            "score": 0.46060488,
+            "raw_content": null,
+            "id": "211b85-02"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/everytable/alternatives-competitors",
+            "title": "Top Everytable Alternatives, Competitors",
+            "content": "Plated\n\n  Plated offers an online platform intended to provide ready-to-cook ingredients and recipes. It provides a subscription-based cook-at-home food delivery service. The com…\n\n  Everytable vs. Plated\n\n  View more in-depth data on:\n\n  + Competitors\n  + Products\n  + Customer References and more\n\n  Compare Everytable and Plated\n WholeMade Kitchen Logo\n\n  WholeMade Kitchen",
+            "score": 0.43352634,
+            "raw_content": null,
+            "id": "270c1b-03"
+          },
+          {
+            "url": "https://www.tasteofhome.com/collection/diabetic-meal-delivery",
+            "title": "4 Best Diabetic Meal Delivery Services, Per Our Health Editor",
+            "content": "### Cons:\n\nIf convenience and clinical oversight are top priorities, Mom’s Meals is a service that stands out. Unlike many meal kits, it focuses specifically on medically tailored nutrition, offering condition-specific menus (including diabetes-friendly options) designed with input from registered dietitians. Meals arrive fully prepared and ready to heat, making this a particularly appealing choice for those looking to skip the food prep. [...] Taste of Home Logo\nThe Best Healthy Meal Delivery Services, Tested by a Dietitian\nThe Best Meal Delivery Services of 2026, Tested by Taste of Home Editors\nWe Tried Them All: The Best Meal Kit Delivery Services\nMeal Delivery Services Compared: The Best Prepared Options for Busy Families\nThe Best Restaurants for People with Diabetes\nModifyHealth Review: A Dietitian's Take on Meal Delivery for Specialized Diets\n6 Best Smoothie Delivery Subscriptions, Tested and Reviewed by a Dietitian [...] Out of all the food delivery services we tried, we think that BistroMD is the best diabetic meal delivery service out there. BistroMD is a physician-created service curated by registered dietitians, giving users peace of mind when ordering. Plus, they have over 100 recipes to choose from.\n\n### Can you buy ready-made diabetic meals?",
+            "score": 0.3943881,
+            "raw_content": null,
+            "id": "99cd13-04"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "input": {
+      "description": "A marketplace connecting small farmers directly with restaurants to cut middlemen and waste.",
+      "industry": "AgriTech",
+      "target_customers": "Small farmers and local restaurants",
+      "details": ""
+    },
+    "output": {
+      "status": "ok",
+      "errors": [],
+      "structured_idea": {
+        "problem_statement": "Inefficiencies and high costs caused by middlemen in the agricultural supply chain, leading to reduced profits for producers and increased food waste.",
+        "proposed_solution": "A direct marketplace platform connecting small farmers directly with local restaurants to bypass intermediaries and minimize waste.",
+        "target_customers": [
+          "Small farmers",
+          "Local restaurants"
+        ],
+        "industry": "AgriTech",
+        "key_features": [
+          "Direct farmer-to-restaurant connection and ordering",
+          "Produce catalog and inventory management",
+          "Supply chain disintermediation to lower costs",
+          "Demand-supply matching to reduce food waste"
+        ]
+      },
+      "search_results": {
+        "Market Demand": [
+          {
+            "url": "https://www.cbinsights.com/company/bull-agritech",
+            "title": "Bull Agritech - Products, Competitors, Financials, Employees, Headquarters Locations",
+            "content": "of tonnes of food annually. By creating a technology-enabled waste-to-value supply chain , Wastelink could become a critical player in sustainable agriculture and food processing. Bull Agritech Founders: Hit Desai and Divyajeet Chauhan What the Startup Does Bull Agritech focuses on digitizing the agricultural supply chain by connecting farmers directly with buyers through a technology-driven platform. The platform helps farmers access fair pricing, logistics support, and better market [...] Bijak Logo\n\nBijak is a company operating within the agritech sector that provides a B2B agricultural commodities trading marketplace connecting suppliers and buyers, facilitating grain trading, and linking fresh produce to market hubs. Bijak also offers a platform for connecting Indian agriculture with global markets and provides fruits and vegetables to consumers. It was founded in 2019 and is based in Gurugram, India. [...] are replacing traditional mandi-based trading with direct farm-to-market platforms 3. Climate-Smart Farming Solutions focused on water efficiency, soil health, and carbon reduction are gaining investor attention. 4. Farmer Advisory Platforms AI chatbots and digital advisory tools are helping millions of farmers access real-time agronomic guidance 5. Circular Agriculture Startups like Wastelink are tackling food waste and sustainability challenges in agriculture. Overall, agritech innovation is",
+            "score": 0.3637152,
+            "raw_content": null,
+            "id": "568e48-00"
+          },
+          {
+            "url": "https://coinmarketcap.com/currencies/agritech",
+            "title": "AGRITECH price today, AGT to USD live price, marketcap and chart | CoinMarketCap",
+            "content": "The AGRITECH platform has been designed to enhance transparency and accountability in the agriculture sector by providing immutable and tamper-proof records of transactions. This ensures that customers can trace the origin of the products they purchase, promoting greater trust in the supply chain. Additionally, the platform enables small and medium-scale farmers to access a wider market, reducing the barriers to entry and increasing their profitability. [...] ## About AGRITECH\n\nAGRITECH is a blockchain project that aims to revolutionize the $15 trillion global agriculture sector. The platform utilizes a proprietary technology that addresses food security and sustainability by leveraging traceability and peer-to-peer marketplace functionalities. The technology creates a secure interface connecting producers, suppliers, and customers globally, ensuring sustainable and scalable supply lines while mitigating fraud and scams. [...] AGRITECH's proprietary technology is built on the blockchain, enabling it to provide a secure and decentralized platform for agricultural transactions. By utilizing smart contracts, the platform ensures that transactions are executed automatically and without the need for intermediaries. This reduces transaction costs and increases efficiency, creating a more streamlined and profitable agricultural supply chain.\n\n### Popular Real World Assets",
+            "score": 0.32743222,
+            "raw_content": null,
+            "id": "a9bc73-01"
+          },
+          {
+            "title": "DIRECT Definition & Meaning - Merriam-Webster",
+            "url": "https://www.merriam-webster.com/dictionary/direct",
+            "content": "It costs less if you buy it direct from the manufacturer. \n\nflew direct to the coast\n\nRecent Examples on the Web\n\nExamples are automatically compiled from online sources to\nshow current usage.\n\nRead More\n\nOpinions expressed in the examples do not represent those of Merriam-Webster or its editors.\nSend us feedback.\n\nVerb\n\nOne minute later, the school was directed to go into lockdown.\n\n—\nCharisma Madarang,\nRolling Stone,\n16 Oct. 2026 [...] conduct implies taking responsibility for the acts and achievements of a group.\n\nconducted negotiations\n\nmanage implies direct handling and manipulating or maneuvering toward a desired result.\n\nmanages a meat market\n\ncontrol implies a regulating or restraining in order to keep within bounds or on a course.\n\ncontrolling his appetite\n\ndirect implies constant guiding and regulating so as to achieve smooth operation.\n\ndirects the store's day-to-day business\n\n## Examples of direct in a Sentence [...] ## Browse Nearby Words\n\ndire\n\ndirect\n\ndirectable\n\nSee all Nearby Words\n\n## Cite this Entry\n\n“Direct.” Merriam-Webster.com Dictionary, Merriam-Webster,  Accessed 18 Oct. 2026.\n\nCopy Citation\n\n## Kids Definition\n\ndirect\n\n1 of 2\nverb\n\ndi·​rect\n\ndə-ˈrekt\")\n\ndī-\n\n1\n\n: to mark with a name and address\n\ndirect a letter\n\n2\n\n: to cause to turn, move, or point or to follow a straight course\n\n3\n\n: to point in a specified line, course, or direction\n\n4\n\n: to show or point out the way for",
+            "score": 0.03874536,
+            "raw_content": null,
+            "id": "0150b4-02"
+          },
+          {
+            "title": "Auto Insurance - Get a Cheap Car Insurance Quote | Direct Auto",
+            "url": "https://www.directauto.com",
+            "content": "Products Overview\n\nAuto InsuranceMotorcycle InsuranceCommercial Auto InsuranceRoadside AssistanceEmergency Protection PlanSR-22DUI InsurancePersonal Injury Protection\n\nLife and Health\n\nTerm Life InsuranceTelemedicineMedicareAccident Medical ExpenseHealth Marketplace\n\nRenters Insurance\n\nContact UsGet Discounts\n\nLearning CenterDirect ConnectAbout DirectWhy DirectFAQsCareers\n\nEspanol\n\nClaims",
+            "score": 0.01603072,
+            "raw_content": null,
+            "id": "63e4a6-03"
+          },
+          {
+            "title": "DIRECTV Packages & Price",
+            "url": "https://www.directvonline.com/channels",
+            "content": "©2026 DIRECTV. DIRECTV and all other DIRECTV marks are trademarks of DIRECTV, LLC. All other marks are the property of their respective owners. [...] ©2026 DIRECTV. DIRECTV and all other DIRECTV marks are trademarks of DIRECTV, LLC. All other marks are the property of their respective owners. [...] ©2026 DIRECTV. DIRECTV and all other DIRECTV marks are trademarks of DIRECTV, LLC. All other marks are the property of their respective owners.",
+            "score": 0.015883507,
+            "raw_content": null,
+            "id": "5b3a7b-04"
+          }
+        ],
+        "Competitor Analysis": [
+          {
+            "url": "https://revenuebase.ai/companies/agricultural-marketplace-platforms/india",
+            "title": "Top 25 Agricultural marketplace platforms based in India",
+            "content": "| “agribazaar is India's leading agritech platform connecting farmers, traders, and buyers across the agricultural value chain - eliminating middlemen, enabling fair pricing, and…”  Recorded description excerpt · October 1, 2026Open company data in RevenueBase ↗Free signup required. |\n| 15 | ttoolsvilla.comtoolsvilla.com  HQ: Durgapur, IndiaReported employees: 51-200 | Durgapur, India | 51-200 | Exact match | 119 contacts → | [...] | “agribazaar is India's leading agritech platform connecting farmers, traders, and buyers across the agricultural value chain - eliminating middlemen, enabling fair pricing, and…”  Recorded description excerpt · October 1, 2026Open company data in RevenueBase ↗Free signup required. |\n| 15 | ttoolsvilla.comtoolsvilla.com  HQ: Durgapur, IndiaReported employees: 51-200 | Durgapur, India | 51-200 | Exact match | 119 contacts → | [...] | Exact match  “agribazaar is India's leading agritech platform connecting farmers, traders, and buyers across the agricultural value chain - eliminating middlemen, enabling fair pricing, and…”  Recorded in the RevenueBase company graph · Oct 1, 2026 · View company records in RevenueBase |\n| 15 | ttoolsvilla.com | Exact match | Durgapur, India✓HQ recorded Oct 1, 2026 | 51-200 | 119 contacts → |",
+            "score": 0.58919704,
+            "raw_content": null,
+            "id": "6b99eb-00"
+          },
+          {
+            "url": "https://successive.tech/blog/agritech-and-e-commerce-are-driving-direct-to-farmer-marketplaces",
+            "title": "How Agritech & Ecommerce Power Direct-to-Farmer Marketplaces",
+            "content": "These digital marketplaces are at the center of this transformation, directly connecting farmers with buyers such as retailers, exporters, processors, restaurants, and end consumers. By reducing reliance on intermediaries, enabling real-time price discovery, and opening access to national and global markets, these platforms—often enabled by targeted digital transformation services, are reshaping agricultural trade. With smartphone penetration in rural India exceeding 65% and digital [...] The main AgriTech technologies that have been offered are crop data digitization, yield forecasting, quality grading, and supply planning. These features enable marketplaces to better match supply and demand to minimize wastage and price fluctuations. AI-based models are also used on advanced platforms to forecast the market trends and assist farmers to make the right decision on when and where to sell. [...] Agricultural trade has long been characterized by extended supply chains, fragmented distribution, and limited price transparency for farmers. Produce typically passed through multiple intermediaries before reaching consumers, reducing farmer margins while increasing end prices. This long-standing model is now being redefined. In India and other developing economies, the rapid growth of digital agri commerce is accelerating the shift toward direct-to-farmer marketplaces, driven by AgriTech",
+            "score": 0.52057004,
+            "raw_content": null,
+            "id": "cc435e-01"
+          },
+          {
+            "url": "https://www.atlantis-press.com/article/126012558.pdf",
+            "title": "AI-Driven Platform for Direct Market Access for Farmers",
+            "content": "6. CONCLUSION The AI-driven platform for direct market access for farmers website is designed to benefit farmers, food producers, and consumers by facilitating direct connections between them. The platform eliminates intermediaries, allowing farmers to offer their products at fair prices and discounts, enhancing their revenue and financial stability. The site serves as a communication bridge between farmers and retailers or food processing industries (FPIs), helping to reduce the transaction [...] direct market access. These platforms help farmers bypass intermediaries and sell directly to consumers, which can lead to higher profits for farmers and lower costs for consumers . The rise of digital marketplaces, mobile apps, and other online platforms has created new opportunities for agricultural trade, especially in emerging markets where traditional distribution channels are often inefficient. Digital Platforms and Mobile Marketplaces for Agricultural Products The development of digital [...] for smallholder farmers, emphasizing that ICT tools, such as marketplace apps, SMS-based platforms, and online selling channels, can reduce the dependency on local traders and improve farmers profitability. By removing intermediaries, these platforms help smallholder farmers capture more value from their products. Consumer Engagement and Benefits of Direct Agricultural E-Commerce Digital platforms that facilitate direct market access between farmers and consumers can also improve consumer",
+            "score": 0.5097406,
+            "raw_content": null,
+            "id": "1ab6d2-02"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/farm-box/alternatives-competitors",
+            "title": "Top Farm Box Alternatives, Competitors",
+            "content": "Bijak Logo\n\nBijak\n\nBijak is a company operating within the agritech sector that provides a B2B agricultural commodities trading marketplace connecting suppliers and buyers, facilitating grain trading, and linking fresh produce to market hubs. Bijak also offers a platform for connecting Indian agriculture with global markets and provides fruits and vegetables to consumers. It was founded in 2019 and is based in Gurugram, India.\n\nCrowd Container Logo\n\nCrowd Container [...] Technology Vendors\n Recent Research\n Newsletter\n Media Support\n Login\n\nCB Insights\n\nFarm Box company logo\n\n# Farm Box\n\nfarmboxonline.com\n\n## Farm Box's alternatives and competitors\n\nSee how Farm Boxcompares to similar products. Farm Box's top competitors include PasarMikro, KedaiSayur, and CiftcidenEve.\n\nPasarMikro Logo\n\nPasarMikro [...] Glife Logo\n\nGlife\n\nGlife operates as a food technology company. It offers an ecosystem for sourcing and procurement, providing fresh ingredients, processed foods, and technological solutions for seamless restaurant operations and supply chain management. Glife primarily serves the food and beverage industry, offering an end-to-end platform that connects suppliers, merchants, and restaurants for efficient business transactions. It was founded in 2017 and is based in Singapore.\n\nF\n\nFarm365",
+            "score": 0.46526662,
+            "raw_content": null,
+            "id": "72c855-03"
+          },
+          {
+            "url": "https://www.cbinsights.com/company/agricool-2/alternatives-competitors",
+            "title": "Top AgriKool Alternatives, Competitors",
+            "content": "Technology Vendors\n Recent Research\n Newsletter\n Media Support\n Login\n\nCB Insights\n\nAgriKool company logo\n\n# AgriKool\n\nAnalyst Briefing Submitted\n\nagrikool.com\n\n## AgriKool's alternatives and competitors\n\nSee how AgriKoolcompares to similar products. AgriKool's top competitors include SwiftVEE, KedaiSayur, and Bijak.\n\nSwiftVEE Logo\n\nSwiftVEE [...] go4fresh\n\ngo4fresh provides a trusted marketplace focused on the distribution of fresh fruits and vegetables. The company facilitates a farm-to-fork supply chain by directly sourcing produce from farmers and distributing it to various business sectors. go4fresh primarily serves retailers, food processors, exporters, and institutional canteens with its fresh produce offerings. It was founded in 2013 and is based in Navi Mumbai, India.\n\nLoading... [...] D\n\nDagens\n\nDagens operates as a digital platform that allows direct trade between farmers and professional chefs in the food industry. The company provides access to local, seasonal produce for kitchens, manages orders, and enables food traceability. Dagens also ensures payments to farmers, facilitates order handling, and provides pricing information. It was founded in 2017 and is based in Oslo, Norway.\n\nA\n\nAgri10x",
+            "score": 0.4434805,
+            "raw_content": null,
+            "id": "93414f-04"
+          }
+        ]
+      }
+    }
+  }
+]
